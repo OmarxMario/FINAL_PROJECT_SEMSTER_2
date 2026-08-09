@@ -10,6 +10,6 @@ To ensure accuracy and trust, good source tracking proves that the insights are 
 
 ---
 
-### How can missing or inaccurate data affect data analysis and decision-making?
+## How can missing or inaccurate data affect data analysis and decision-making?
 
 When the data is misleading, the data analysts will come up with misleading insites, which will lead to false decisions that can cost milions, huge loses to the corporation or colaboration, and the loss of investments
